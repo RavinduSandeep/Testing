@@ -20,13 +20,13 @@ public class WhileAndDo {
             }
         }
 // Do While ******************************************************************************
-//        do {
-//            System.out.println("Count do is " + count);
-//            count++;
-//            if (count > 100) {
-//                break;
-//            }
-//        } while (count != 6);
+       do {
+           System.out.println("Count do is " + count);
+           count++;
+           if (count > 100) {
+               break;
+           }
+       } while (count != 6);
 
     }
 }
